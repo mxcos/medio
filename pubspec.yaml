@@ -1,7 +1,7 @@
 name: medio
-description: "A new Flutter plugin project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/mxcos/medio
+description: "A Flutter plugin that integrates the powerful VLC media player engine to enable cross-platform video playback with advanced features and customization options."
 
 environment:
   sdk: ^3.8.1
